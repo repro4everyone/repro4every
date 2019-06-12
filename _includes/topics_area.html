@@ -1,0 +1,30 @@
+<!-- Start Topics  Area -->
+<section class="topics-area bg-color1">
+    <div class="topics-wrapper section-spacing pt-0 bminus-30">
+        <div class="container">
+            <div class="section-title">
+                <h2 class="heading-2">Explore Topics</h2>
+                <p>Lacus vestibulum sed arcu non odio euismod lacinia at quis risus sed </p>
+            </div>
+			
+			<div class="row">
+				{% assign groups = site.docs | group_by: "category_name" | sort: "name" %} {% for group in groups %}
+				<div class="col-md-6 col-lg-4">
+					<article class="topics-service bg-color3 wow fadeIn" data-wow-duration="3s">
+						<header class="topics-title">
+							<h4 class="heading-4 text-capitalize">{{ group.name }}</h4>
+						</header>
+						<ul class="topics-list list-inline">
+							{% for item in group.items %}
+							<li><a href="{{item.url}}">{{item.title}} </a></li>
+							{%endfor%}
+						</ul>
+					</article>
+				</div>
+				{%endfor%}
+			</div>				
+           
+		</div>
+    </div>
+</section>
+<!-- End Topics Area -->

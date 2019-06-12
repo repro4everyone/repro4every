@@ -1,0 +1,23 @@
+<div class="sidebar-menu accordion" id="sidebar-menu">
+{% assign groups = site.docs | group_by: "category_name" | sort: "name" %} {% for group in groups %}
+	<div class="menu-item">
+		<div class="menu-heading">
+			<button class="btn" data-toggle="collapse" data-target="#{% for item in group.items limit:1%}{{item.category_slug}}{%endfor%}" aria-expanded="true">
+				{{ group.name }}
+			</button>
+		</div>
+		<div id="{% for item in group.items limit:1%}{{item.category_slug}}{%endfor%}" class="collapse show" data-parent="#sidebar-menu">	
+			<ul class="sub-menu list-inline">
+			{% for item in group.items %}
+			<li><a href="{{item.url}}">{{item.title}}  </a></li>
+			{%endfor%}
+			</ul>
+		</div>
+	</div>
+	
+{%endfor%}		
+
+</div>
+						
+						
+	 

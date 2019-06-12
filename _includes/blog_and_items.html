@@ -1,0 +1,50 @@
+<!-- Start Pupolar Article  Area -->
+<section class="pupolar-article-area bg-color3">
+    <div class="pupolar-article-wrapper  section-spacing bminus-30">
+        <div class="container">
+            <div class="section-title">
+                <h2 class="heading-2"> Blog & Items</h2>
+                <p>Vulputate odio ut enim blandit volutpat maecenas volutpat blandit </p>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-lg-8">
+                    <article class="pupolar-article  bg-color1  wow fadeIn" data-wow-duration="3s">
+                        <header class="popular-article-top">
+                            <div class="popular-top-logo">
+                                <div class="popular-logo-icon"><img src="{{site.baseurl}}/assets/images/popular-2.png" alt="service icon"></div>
+                            </div>
+                            <div class="popular-top-title">
+                                <h5 class="heading-5">Recent Blogs</h5>
+                            </div>
+                        </header>
+                        <ul class="popular-article-list list-inline">
+                          {% for blog in site.posts %}
+                            <li><a href="{{blog.url}}">{{blog.title}}</a></li>
+                          {% endfor %}
+                        </ul>
+                    </article>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <article class="pupolar-item bg-color1 wow fadeIn" data-wow-duration="3s">
+                        <header class="popular-item-top">
+                            <div class="popular-top-logo">
+                                <div class="popular-logo-icon"><img src="{{site.baseurl}}/assets/images/popular-3.png" alt="service icon"></div>
+                            </div>
+                            <div class="popular-top-title">
+                                <h5 class="heading-5">Treding Items</a></h5>
+                            </div>
+                        </header>
+                        <ul class="popular-item-list list-inline">
+                            <li><a href="https://themeix.com/product/axotic-responsive-html5-blog-site-template/">Axotic HTML5 Template</a></li>
+                            <li><a href="https://themeix.com/product/appszone-jekyll-app-landing-page/">Appszone Jekyll Template</a></li>
+                            <li><a href="https://themeix.com/product/etube-responsive-ghost-theme/">Etube Ghost Theme</a></li>
+                            <li><a href="https://themeix.com/product/newsx-ghost-template/">NewsX Ghost Theme</a></li>
+                            <li><a href="https://themeix.com/product/primula-modern-html5-blog-site-template/">Primula Blog Template </a></li>
+                        </ul>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Pupolar Article Area -->

@@ -1,0 +1,45 @@
+#Please use the main menu items under the "text"
+
+- text: Home
+  url: /
+- text: Support
+  url: /pages/support
+- text: Blog
+  url: /tag/education
+  submenu:
+  - text: Blog Left Sidebar
+    url: /blog-post-left-sidebar
+  - text: Blog Right Sidebar
+    url: /blog-post-right-sidebar
+  - text: Blog Details
+    url: /technology-placeat-ipsum-libero
+  - text: Post Tag Page
+    url: /tag/education
+- text: Docs
+  url: /pages/explore-topics
+  submenu:
+  - text: Docs Left Sidebar
+    url: /docs/left-sidebar-example
+  - text: Docs Right Sidebar
+    url: /docs/right-sidebar-example
+  - text: Docs Fullwidth
+    url: /docs/doc-fullwidth
+- text: Pages
+  url: /
+  submenu:
+  - text: Changelog
+    url: /pages/changelog
+  - text: Testimonials
+    url: /pages/testimonials
+  - text: Register
+    url: /pages/register
+  - text: Login
+    url: /pages/login    
+  - text: Privacy Policy
+    url: /pages/privacy-policy    
+  - text: FAQ
+    url: /pages/faq 
+  - text: Submit Ticket
+    url: /pages/submit-ticket
+- text: Contact
+  url: /pages/contact

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+    {% include header.html %}
+    {% include doc_post_header.html %}
+    <!-- Start Layout  Area -->
+    <section class="layout-area bg-color1">
+        <div class="layout-wrapper section-spacing bminus-30">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-lg-8">
+                        <h4 class="heading-4">{{page.title}}</h4>
+                        <div class="doc-content">
+                          {{content}}
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-lg-4">
+                        {% include doc_sidebar.html %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Layout Area -->
+
+ 
+    {% include support_area.html %}
+    {% include support_area_2.html %}
+    {% include footer.html %}
