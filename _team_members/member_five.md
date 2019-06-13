@@ -1,6 +1,6 @@
 ---
-name: Benjamin Schwessinger
+name: Diep Ganguly
 designation: Australian National University
-twitter: schwessinger
+twitter: diep_ganguly
 linkedin: test
 ---

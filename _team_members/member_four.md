@@ -1,6 +1,6 @@
 ---
-name: Benjamin Schwessinger
+name: Peter Crisp
 designation: Australian National University
-twitter: schwessinger
+twitter:
 linkedin: test
 ---

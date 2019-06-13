@@ -2,42 +2,39 @@
     <div class="team-wrapper section-spacing bminus-30">
         <div class="container">
             <div class="section-title wow fadeInUp" data-wow-duration="2s">
-                <h2 class="heading-2"> Our Teams</h2>
-                <p>Vulputate odio ut enim blandit volutpat maecenas volutpat blandit </p>
+                <p>Over the years many people have contributed to the Reproducibility for Everyone project. </p>
             </div>
             <div class="row">
-                <div class="col-md-12">
-                 <div class="team-carousel owl-carousel">
-                  {% for team_member in site.team_members %}
-                  <div class="single-team team-style">
-                    <div class="team-img"><img src="{{team_member.image_url}}" alt="{{team_member.name}}"></div>
-                    <div class="team-content">
-                        <div class="team-title">
-                            <h4 class="heading-4"> <a href="{{team_member.url}}">{{team_member.name}}</a> </h4>
-                            <p>{{team_member.designation}}</p>
-                        </div>
-                        <ul class="team-socials list-inline">
-                            {% if team_member.behance_url %}
-                            <li class="list-inline-item"><a href="{{team_member.behance_url}}"><i class="fa fa-behance"></i></a></li>
+
+                        {% for team_member in site.team_members %}
+                        {% assign loopindex = forloop.index | modulo: 4 %}
+                        {% if loopindex == 1 %}
+                        <div class="row">
                             {% endif %}
-                            {% if team_member.twitter_url %}
-                            <li class="list-inline-item"><a href="{{team_member.twitter_url}}"><i class="fa fa-twitter"></i></a></li>
+                            <div class="col-sm-12 col-lg-3">
+
+                                <div class="single-team team-style">
+                                        <div class="team-content">
+                                            <div class="team-title">
+                                                <h4 class="heading-4"> {{team_member.name}} </h4>
+                                                <p>{{team_member.designation}}</p>
+                                            </div>
+                                            <ul class="team-socials list-inline">
+                                                {% if team_member.twitter %}
+                                                <li class="list-inline-item"><a href="https://twitter.com/{{team_member.twitter}}"><i class="fa fa-twitter"></i></a></li>
+                                                {% endif %}
+                                                {% if team_member.linkedin_url %}
+                                                <li class="list-inline-item"><a href="https://www.linkedin.com/in/{{team_member.linkedin}}"><i class="fa fa-linkedin"></i></a></li>
+                                                {% endif %}
+                                            </ul>
+                                        </div>
+                                    </div> 
+                                </div>
+                                {% if loopindex == 0 %}
+                            </div>
                             {% endif %}
-                            {% if team_member.google_plus_url %}
-                            <li class="list-inline-item"><a href="{{team_member.google_plus_url}}"><i class="fa fa-google-plus"></i></a></li>
-                            {% endif %}
-                            {% if team_member.instagram_url %}
-                            <li class="list-inline-item"><a href="{{team_member.instagram_url}}"><i class="fa fa-instagram"></i></a></li>
-                            {% endif %}
-                            {% if team_member.linkedin_url %}
-                            <li class="list-inline-item"><a href="{{team_member.linkedin_url}}"><i class="fa fa-linkedin"></i></a></li>
-                            {% endif %}
-                        </ul>
-                    </div>
-                   </div> 
-                   {% endfor %}
-                 </div>
-              </div>
+                            {% endfor %}
+                  </div>
+             </div>
          </div>
-     </div>
-</div>
+    </div>
