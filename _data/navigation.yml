@@ -2,6 +2,11 @@
 
 - text: Home
   url: /
+- text: About
+  url: /pages/about
+  submenu:
+  - text: Our People
+  - url: /people.html
 - text: Support
   url: /pages/support
 - text: Blog
