@@ -6,7 +6,7 @@
   url: /pages/about
   submenu:
   - text: Our People
-  - url: /people.html
+  - url: /pages/people
 - text: Support
   url: /pages/support
 - text: Blog
