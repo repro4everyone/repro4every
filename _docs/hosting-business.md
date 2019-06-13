@@ -1,11 +1,11 @@
 ---
 layout: doc
-title: "How up setup arnica"
+title: "Reproducible image manipulation"
 description: "Here is the description of the doc page"
 date: 2018-12-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Arnica Ghost Theme
-category_slug: arnica-ghost-theme
+category_name: Vizualisation & Images
+category_slug: viz-image
 ---
 <b>Hosting Business  Lorem ipsum dolor sit amet</b>
 <p>It’s no secret that the digital industry is booming. From exciting startups to global brandscomp nies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, </p>

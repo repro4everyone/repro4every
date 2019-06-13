@@ -4,11 +4,11 @@
         <div class="container">
             <div class="section-title">
                 <h2 class="heading-2">Explore Topics</h2>
-                <p>Lacus vestibulum sed arcu non odio euismod lacinia at quis risus sed </p>
+                <p>Find presentations, tutorials, posters, and more about practices that supports reproducible research throughout the research lifecycle. Not finding what you're looking for? Please contribute more topics to make this a one-stop-shop for reproducibility resources. </p>
             </div>
 			
 			<div class="row">
-				{% assign groups = site.docs | group_by: "category_name" | sort: "name" %} {% for group in groups %}
+				{% assign groups = site.docs | group_by: "category_name" %} {% for group in groups %}
 				<div class="col-md-6 col-lg-4">
 					<article class="topics-service bg-color3 wow fadeIn" data-wow-duration="3s">
 						<header class="topics-title">

@@ -1,11 +1,11 @@
 ---
-layout: doc_right
-title: "Doc - Right Sidebar example"
+layout: doc
+title: "Using reference managers"
 description: "Here is the description of the doc page"
 date: 2018-11-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Primula Jekyll Theme
-category_slug: primula-jekyll-theme
+category_name: Referencing & Literature
+category_slug: referencing
 ---
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A alias voluptatum repellat libero odio ratione sunt ut tempora, doloremque magni, non ex similique, temporibus neque! Perspiciatis quisquam quas, amet, laudantium saepe maxime doloremque impedit similique illo eligendi laborum suscipit magnam, aliquam alias id reprehenderit vel, fugit dolores eaque quos rerum cum necessitatibus. Quibusdam accusantium ut esse qui, cum.</p>

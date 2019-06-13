@@ -1,11 +1,11 @@
 ---
-layout: doc_right
-title: "Etube Installation Guide"
+layout: doc
+title: "Finding shared lab resources"
 description: "Here is the description of the doc page"
 date: 2018-11-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Etube HTML Template
-category_slug: etube-html-template
+category_name: Sharing & Collaborating
+category_slug: share-collaborate
 ---
 
 

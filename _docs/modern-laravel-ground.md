@@ -1,11 +1,11 @@
 ---
-layout: doc_right
-title: "Doxy - Right Sidebar example"
+layout: doc
+title: "Comparing reference managers"
 description: "Here is the description of the doc page"
 date: 2018-11-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Doxy Jekyll Theme
-category_slug: doxy-jekyll-theme
+category_name: Referencing & Literature
+category_slug: referencing
 ---
 
 

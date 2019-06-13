@@ -1,11 +1,11 @@
 ---
-layout: doc
-title: "Ecommerce Solution For All ?"
+layout: doc_left
+title: "File naming conventions"
 description: "Here is the meta description for doc"
 date: 2018-12-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Ecommerce Theme
-category_slug: ecommerce-theme
+category_name: Analysis & Computation
+category_slug: analysis-computation
 ---
 
 <p>business Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam saepe ullam, eaque vel voluptas odit consectetur. Itaque vel sed voluptatibus velit quasi fugiat expedita sit. Porro repellendus aliquid eligendi mollitia quia, voluptate repellat odit natus. Corporis eius dolore id ex aut laudantium earum perspiciatis magnam cupiditate! Eum quaerat dolorem aspernatur fugit, nostrum similique accusantium nobis neque quisquam repellendus deleniti officiis, quas, ipsum quidem illum. Saepe in molestias totam qui magnam cum aliquam vel maiores, dolorum aut perspiciatis nihil aperiam, adipisci inventore autem? Blanditiis, quos, corrupti!</p>

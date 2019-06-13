@@ -1,11 +1,11 @@
 ---
 layout: doc
-title: "Ecommerce Solution For All ?"
+title: "The benefits of version control"
 description: "Here is the meta description for doc"
 date: 2018-12-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Ecommerce Theme
-category_slug: ecommerce-theme
+category_name: Analysis & Computation
+category_slug: analysis-computation
 ---
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A alias voluptatum repellat libero odio ratione sunt ut tempora, doloremque magni, non ex similique, temporibus neque! Perspiciatis quisquam quas, amet, laudantium saepe maxime doloremque impedit similique illo eligendi laborum suscipit magnam, aliquam alias id reprehenderit vel, fugit dolores eaque quos rerum cum necessitatibus. Quibusdam accusantium ut esse qui, cum.</p>

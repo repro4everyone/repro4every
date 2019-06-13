@@ -1,11 +1,11 @@
 ---
 layout: doc
-title: "Darkbiz - Left Sidebar example"
+title: "Research data management plans"
 description: "Here is the description of the doc page"
 date: 2018-11-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Darkbiz WordPress Theme
-category_slug: darkbiz-wordpress-theme
+category_name: Planning Research
+category_slug: planning
 ---
 
 

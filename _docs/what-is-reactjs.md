@@ -1,11 +1,11 @@
 ---
-layout: doc_right
-title: "Darkbiz - Another Doc example"
+layout: doc
+title: "Electronic lab notebooks (ELNs)"
 description: "Here is the description of the doc page"
 date: 2018-11-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Darkbiz WordPress Theme
-category_slug: darkbiz-wordpress-theme
+category_name: Experimental Reproducibility
+category_slug: experiments
 ---
 
 <p>It’s no secret that the digital industry is booming. From exciting startups to global brandscomp nies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, </p>

@@ -1,11 +1,11 @@
 ---
 layout: doc
-title: "Docs - Left Sidebar Example"
+title: "Choosing a plot"
 description: "Here is the description of the doc page"
 date: 2018-11-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Primula Jekyll Theme
-category_slug: primula-jekyll-theme
+category_name: Vizualisation & Images
+category_slug: viz-image
 ---
 <p>Announce Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae quidem consequuntur quisquam accusamus delectus distinctio aut neque quibusdam, vitae minima, natus consectetur quas repellat velit sapiente illo optio ex recusandae eveniet quaerat qui nisi non nam, iusto? Expedita rerum error, atque voluptate assumenda molestias nemo totam beatae. Corporis sunt iste voluptate molestias rerum aliquam magnam itaque quibusdam placeat, incidunt nulla ratione quas similique, dolorem atque, qui non! In rem dolore cupiditate quo quae aliquam perferendis saepe sed sequi error quisquam nemo repudiandae, porro hic laudantium quibusdam provident eum atque. Vero, voluptates iure impedit earum labore consectetur accusamus! Ipsum nulla officia veniam eaque libero error veritatis enim natus, beatae excepturi voluptatum reprehenderit maxime, laborum culpa ab quidem eos optio architecto repudiandae!</p>
 <p>Modern  no secret that the digital industry is booming. From exciting startups to global brandscomp nies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, </p>
