@@ -17,7 +17,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://repro4every.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png"
 ## Theme Options
-animated_header: ""  #true 
+animated_header: "true"
 twitter_username: repro4everyone
 github_username:  repro4everyone
 
