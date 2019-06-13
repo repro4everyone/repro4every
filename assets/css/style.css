@@ -668,7 +668,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     position: absolute;
     left: 0;
     right: 0;
-    background: #ffffff;
+    background: #165797;
     padding: 0 15px;
     top: 83px;
   }
@@ -686,7 +686,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
     position: absolute;
     left: 0;
     right: 0;
-    background: #ffffff;
+    background: #165797;
     padding: 0 15px;
     top: 83px;
   }
@@ -730,7 +730,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   font-size: 16px;
   line-height: 30px;
   padding: 15px;
-  color: #ffffff;
+  color: #165797;
   font-weight: 400;
 }
 
