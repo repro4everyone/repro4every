@@ -2873,7 +2873,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 
 .team-style .team-content {
   transition: all 0.5s ease 0s;
-  background-color: #f2f6fb;
+  background-color: #ffffff;
   position: relative;
   bottom: -40px;
 }
