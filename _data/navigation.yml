@@ -6,7 +6,7 @@
   url: /pages/about
   submenu:
   - text: Our People
-  - url: /pages/people
+    url: /pages/people
 - text: Resources
   url: /pages/explore-topics
   submenu:
