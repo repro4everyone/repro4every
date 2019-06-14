@@ -4,7 +4,7 @@ title: "Writing papers collaboratively"
 description: "Here is the meta description for doc"
 date: 2018-12-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Sharing & Collaborating
+category_name: 5 Sharing & Collaborating
 category_slug: share-collaborate
 ---
 

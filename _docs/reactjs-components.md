@@ -4,7 +4,7 @@ title: "What is preregistration?"
 description: "Here is the description of the doc page"
 date: 2018-11-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Plannng Research
+category_name: 3 Planning Research
 category_slug: planning
 ---
 

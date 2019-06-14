@@ -4,7 +4,7 @@ title: "Finding shared lab resources"
 description: "Here is the description of the doc page"
 date: 2018-11-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Sharing & Collaborating
+category_name: 5 Sharing & Collaborating
 category_slug: share-collaborate
 ---
 

@@ -1,10 +1,10 @@
 ---
-layout: doc_left
+layout: doc
 title: "Reporting on statistical choices"
 description: "Here is the description of the doc page"
 date: 2018-12-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Analysis & Computation
+category_name: 6 Analysis & Computation
 category_slug: analysis-computation
 ---
 

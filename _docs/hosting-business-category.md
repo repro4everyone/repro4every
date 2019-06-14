@@ -4,7 +4,7 @@ title: "Best practices for creating metadata"
 description: "Here is the description of the doc page"
 date: 2018-11-08 8:14:30 +0600
 post_image: assets/images/service-icon3.png
-category_name: Experimental Reproducibility
+category_name: 4 Experimental Reproducibility
 category_slug: experiments
 ---
 <b>Hosting Business  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias vitae doloremque quasi explicabo sit. Assumenda dolores, minus, accusamus quibusdam voluptas voluptatem, quos, iste ad dignissimos ea architecto dolorem incidunt vel dicta sint quaerat nostrum ipsam pariatur corporis! Aperiam ut aspernatur, aut, quaerat ducimus quibusdam suscipit.</b>
