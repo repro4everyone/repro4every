@@ -1,0 +1,47 @@
+---
+layout: page
+title: Events
+add_to_menu: true
+description: "Community calendar and events"
+keywords: "responsive,jekyll,minimal template"
+---
+
+<!-- Start Events  Area -->
+<section class="privacy-policy-area bg-color1">
+   <div class="privacy-policy-wrapper section-spacing bminus-30">
+      <div class="container">
+         <div class="privacy-policy-box">
+            <div class="privacy-policy-icon wow bounceIn" data-wow-duration="1s">
+               <img src="{{site.baseurl}}/assets/images/privacy-policy-icon.png" alt="privacy policy icon" />
+            </div>
+            <div class="privacy-policy-content">
+               <h2 class="heading-2">Community Calendar</h2>
+               <p>Subscribe to our community calender.</p>
+               <p>
+               <iframe src="https://calendar.google.com/calendar/embed?src=ro1tofm5ttfo8gc7cgkn4pjnio%40group.calendar.google.com&ctz=Africa%2FJohannesburg" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+               </p>
+            </div>
+         </div>
+         <div class="privacy-policy-box">
+            <div class="privacy-policy-icon wow bounceIn" data-wow-duration="1s">
+               <img src="{{site.baseurl}}/assets/images/privacy-policy-icon2.png" alt="privacy policy icon" />
+            </div>
+            <div class="privacy-policy-content">
+               <h2 class="heading-2">Upcoming Events</h2>
+               {% include future-events.html %}
+            </div>
+         </div>
+         <div class="privacy-policy-box">
+               <div class="privacy-policy-icon wow bounceIn" data-wow-duration="1s">
+                  <img src="{{site.baseurl}}/assets/images/privacy-policy-icon2.png" alt="privacy policy icon" />
+               </div>
+               <div class="privacy-policy-content">
+                  <h2 class="heading-2">Past Events</h2>
+                  {% include past-events.html %}
+               </div>
+         </div>
+  
+      </div>
+   </div>
+</section>
+     <!-- End Events Area -->

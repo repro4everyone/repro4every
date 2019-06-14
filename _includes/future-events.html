@@ -1,0 +1,26 @@
+<!-- Start Faq  Area -->
+<section class="faq-area bg-color2">
+        <div class="faq-wrapper section-spacing bminus-30">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        {% for future_e in site.data.future %}
+                        <article class="faq-service bg-color1">
+                            <header class="faq-logo wow bounceIn" data-wow-duration="1s">
+                                <div class="logo-image"> <img src="{{site.baseurl}}/assets/images/001-computer.png" alt="" /></div>
+                            </header>
+                            <footer class="faq-content">
+                                <h4 class="heading-4"><a href="{{ future_e.link }}">{{ future_e.name }}</a></h4>
+                                <h5 class="heading-5">{{ future_e.date }}</h5>
+                                <p>{{ future_e.location }}</p>
+                            </footer>
+                        </article>
+                        {% endfor %}
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- End Faq Area -->
