@@ -7,6 +7,8 @@
   submenu:
   - text: Our People
     url: /pages/people
+  - text: Get involved
+    url: /pages/join
 - text: Resources
   url: /pages/explore-topics
   submenu:
