@@ -1,20 +1,18 @@
 <!-- Start Testimonial  Area -->
-<section class="testimonial-area bg-color3">
+<section class="testimonial-area bg-color1">
     <div class="testimonial-wrapper  section-spacing">
         <div class="container">
             <div class="section-title">
-                <h2 class="heading-2">Client Feedback</h2>
-                <p>Vulputate odio ut enim blandit volutpat maecenas volutpat blandit </p>
+                <h2 class="heading-2">What Our Peers Say About the Workshops and Resources</h2>
+                <p>Over the past two years we've had great feedback from workshop participants and collaborators. We've also had a huge interest from people to attend our workshops and info sessions. Here is what they say... </p>
             </div>
             <div class="testimonial-slider owl-carousel">
                 {% for testimonial in site.testimonials %}
                 <div class="item">
                     <div class="testimonial-item">
-                        <div class="testimonial-author"><img src="{{testimonial.image_url}}" alt="{{testimonial.name}}"></div>
                         <div class="testimonial-content">
                             <p>{{testimonial.desc}}</p>
-                            <input type="text" class="rating rating5" readonly value="{{testimonial.rating}}"/>
-                            <h4 class="testimonial-name heading-4"><a href="{{testimonial.url}}">{{testimonial.name}}</a></h4>
+                            <h4 class="testimonial-name heading-4">{{testimonial.name}}</h4>
                             <h6 class="testimonial-subname heading-6">{{testimonial.designation}}</h6>
                         </div>
                     </div>

@@ -1,8 +1,8 @@
 ---
-name: Victoria Kurt
-designation: Web Developer
-url: https://themeix.com
-rating: 5
-desc: Rhoncus odio proin mi hymenaeos, eget mauris facilisis, senectus id fusce quisque eu mauris laoreet, wisi nullam, dolor ac. Et nec urna, at aliquam vestibulum nunc tellus mollis  quam amet lectus vel nulla.
+name: Anonymous
+designation:  eLife Ambassador 2019 
+url: 
+rating: 
+desc: Hey @BenjaminSchwessinger and @anelda.vdwalt and all the others contributing to the recent call, Thanks a lot for the amazing work, its a fabulous transformation to have a branded slide deck. I added my name to the contributers list...
 image_url: /assets/images/testimonial-img2.png
 ---
