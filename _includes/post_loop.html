@@ -1,5 +1,9 @@
 <div class="single-post">
-
+   {% if page.post_image %}
+   <div class="single-img">
+      <img src="{{ site.url }}/assets/images/blog/{{page.post_image}}" alt="{{page.title}}"/>
+   </div>
+   {% endif %}
    <div class="single-content">
       {{page.content}}
    </div>
@@ -19,10 +23,6 @@
        {% include social_share.html %}
     </div>
    </div>
-   <div class="single-admin">
-      
 
-      
-   </div>
    {% include pagination.html %}
 </div>
