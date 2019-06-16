@@ -307,6 +307,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   line-height: 56px;
 }
 
+
 @media (max-width: 768px) {
   .heading-1 {
     font-size: 36px;
