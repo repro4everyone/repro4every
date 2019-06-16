@@ -97,7 +97,7 @@ img {
 }
 
 a {
-  color: #404040;
+  color: #0496d4;
   -webkit-transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
   -ms-transform: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
   -o-transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
@@ -106,7 +106,7 @@ a {
 }
 
 a:hover {
-  color: #216BBC;
+  color: #a4d7f2;
 }
 
 ul li, ol li {
