@@ -2,7 +2,7 @@
 layout: post
 title: "Experimental Reproducibility 101 - Part II"
 date: 2018-10-23 18:14:30 +0600
-tags: [reproducibility, experimental reproducibility]
+tags: [reproducible research, experimental reproducibility]
 post_image: 2018-10-23.jpg
 comment: true
 author: Sonali Roy
