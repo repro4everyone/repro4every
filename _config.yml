@@ -15,7 +15,7 @@ description: "Resources to support reproducible research"
 keywords: "reproducibility, reproducible research, open science"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://repro4every.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
-cover_image: "assets/images/screenshot.png"
+cover_image: "{{site.url }}/assets/images/screenshot.png"
 ## Theme Options
 animated_header: "true"
 twitter_username: repro4everyone
