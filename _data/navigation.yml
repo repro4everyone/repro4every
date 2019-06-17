@@ -18,6 +18,8 @@
   submenu:
   - text: Contact
     url: /pages/contact
+  - text: Contribute
+    url: /pages/contribute
   - text: Host an Event
     url: /pages/host
 - text: Blog
