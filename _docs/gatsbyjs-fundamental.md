@@ -3,7 +3,6 @@ layout: doc
 title: "Sharing lab protocols with others"
 description: "Here is the description of the doc page"
 date: 2018-12-08 8:14:30 +0600
-post_image: assets/images/service-icon3.png
 category_name: 5 Sharing & Collaborating
 category_slug: share-collaborate
 ---

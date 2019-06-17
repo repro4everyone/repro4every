@@ -3,7 +3,6 @@ layout: doc
 title: "The benefits of version control"
 description: "Here is the meta description for doc"
 date: 2018-12-08 8:14:30 +0600
-post_image: assets/images/service-icon3.png
 category_name: 6 Analysis & Computation
 category_slug: analysis-computation
 ---
