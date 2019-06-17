@@ -7,23 +7,17 @@
   submenu:
   - text: Our People
     url: /pages/people
-  - text: Get involved
-    url: /pages/join
+  - text: Community Guidelines
+    url: /pages/guidelines
 - text: Resources
   url: /pages/explore-topics
-  submenu:
-  - text: Presentations
-    url: /docs/presentations
-  - text: Posters
-    url: /docs/posters
-  - text: Recordings
-    url: /docs/recordings
-  - text: Tutorials
-    url: /docs/tutorials
-  - text: Miscellaneous
-    url: /docs/misc
 - text: Events
   url: /pages/events
+- text: Join
+  url: /pages/join
+  submenu:
+  - text: Host an Event
+    url: /pages/host
 - text: Blog
   url: /tag/reproducibility
 - text: Contact
