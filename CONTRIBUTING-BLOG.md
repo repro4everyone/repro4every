@@ -1,4 +1,4 @@
-# Contributing to Reproducibility for Everyone
+# Contributing Blog Posts via Github to Reproducibility for Everyone
 
 There are numerous ways in which you can contribute to the Reproducibility for Everyone project. Here we describe how you can add a blog 
 post via a pull request in Github. Other contribution options are available [on our website]({{site.url}}/pages/contribute.html).
