@@ -16,9 +16,9 @@
 - text: Join
   url: /pages/join
   submenu:
+  - text: Contact
+    url: /pages/contact
   - text: Host an Event
     url: /pages/host
 - text: Blog
   url: /tag/reproducibility
-- text: Contact
-  url: /pages/contact
