@@ -28,7 +28,8 @@ _Notes: To be able to fork the repository, you will need a Github account which 
 - It is very important to add the following header to the very top of the file:
 
 `---`
-layout: post ## Don't change anything here`
+`layout: post ## Don't change anything here`
+
 `title: "Add your blog title inbetween the double quotation marks" ## Edit this`
 `date: 2018-10-19 18:14:30 +0600 ## Edit this to change the date and time to the current date and time and time zone you are in`
 `tags: [tag1, tag2] ## Edit this to add up to 5 tags for your post. It can be phrases. Comma separated`
