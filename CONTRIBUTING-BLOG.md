@@ -32,6 +32,6 @@ _Notes: To be able to fork the repository, you will need a Github account which 
    title: "Add your blog title inbetween the double quotation marks" ## Edit this
    date: 2018-10-19 18:14:30 +0600 ## Edit this to change the date and time to the current date and time and time zone you are in
    tags: [tag1, tag2] ## Edit this to add up to 5 tags for your post. It can be phrases. Comma separated
-   post_image: 2018-10-19.jpg ## Edit this to be the name of the image you would like to use as header image for the post. Leave     empty if no image required
+   post_image: 2018-10-19.jpg ## Edit this to be the name of the image you would like to use as header image for the post. Leave empty if no image required
    author: Name1, Name2, Name 3  ## Edit this to add the comma seperated list of name(s) of author(s)
    ---```
