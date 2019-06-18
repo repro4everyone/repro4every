@@ -2812,7 +2812,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 */
 .headline-wrapper {
   position: relative;
-  bottom: 100px;
+  bottom: 60px;
 }
 
 .headline-box {
