@@ -2,9 +2,22 @@
 - name: Reproducibility for Everyone Workshop @ 22nd Penn State Plant Biology Symposium
   date: 20 June 2019
   location: Pennsylvania, USA
+  flag: united-states-of-america.png
   link: http://www.cvent.com/events/22nd-penn-state-plant-biology-symposium/agenda-2dcdb9d64d104b49be3bf726867365cd.aspx
 - name: How to Incorporate Reproducibiity into your Practice @ ASM Microbe 2019
   date: 21 June 2019
   duration: 30 minutes
   location: San Francisco, USA
+  flag: united-states-of-america.png
   link: https://eventpilotadmin.com/web/page.php?page=Session&project=ASM19&id=S161
+- name: Reproducibility for Everyone Workshop @ Evolution Meeting 2019
+  date: 21 June 2019
+  duration: 2 hours
+  location: Rhode Island, USA
+  flag: united-states-of-america.png
+  link: https://www.evolutionmeetings.org/prepost-conference-satellite-events.html
+- name: The Reproducibility Workshop @ENCODS 2019
+  date: 24 - 25 June 2019
+  location: London, UK
+  flag: united-kingdom.png
+  link: https://www.fens.org/Training/ENCODS/ENCODS2019/Workshops1/
