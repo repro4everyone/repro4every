@@ -1,6 +1,6 @@
 ---
 name: Nicolas Schmelling
-designation: Protocols.io
+designation: Australian National University
 twitter: DerSchmelling
 linkedin: test
 ---
