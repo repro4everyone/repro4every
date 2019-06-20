@@ -10,7 +10,10 @@
   - text: Community Guidelines
     url: /pages/guidelines
 - text: Resources
-  url: /pages/explore-topics
+  url: /pages/resource-map
+  submenu:
+  - text: Explore Topics
+    url: /pages/explore-topics
 - text: Events
   url: /pages/events
 - text: Join

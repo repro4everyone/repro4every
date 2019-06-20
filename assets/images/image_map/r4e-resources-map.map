@@ -1,0 +1,17 @@
+<img src="[r4e-resources-map] (imported)" width="1100" height="1144" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Talarify -->
+<area shape="rect" coords="0,0,509,243" href="{{ site.url }}/docs/reproducibility-dictionary" />
+<area shape="rect" coords="575,2,1097,239" href="{{ site.url }}/pages/explore-topics" />
+<area shape="rect" coords="578,275,1098,512" href="{{ site.url }}/pages/explore-topics" />
+<area shape="rect" coords="605,548,1098,788" href="{{ site.url }}/pages/explore-topics" />
+<area shape="rect" coords="572,820,1097,1060" href="{{ site.url }}/pages/explore-topics" />
+<area shape="rect" coords="1,839,533,1053" href="{{ site.url }}/pages/explore-topics" />
+<area shape="rect" coords="0,560,501,789" href="{{ site.url }}/pages/explore-topics" />
+<area shape="rect" coords="4,285,527,516" href="{{ site.url }}/pages/explore-topics" />
+</map>
