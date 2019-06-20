@@ -5,26 +5,27 @@
                 <p>Over the years many people have contributed to the Reproducibility for Everyone project. </p>
             </div>
             <div class="row">
-
-                        {% for team_member in site.team_members %}
+                {% assign sortednames = site.team_members | sort: "name" %}
+                {% for member in sortednames %}
+                    {% assign memberitems = member | split: '#' %}
                         {% assign loopindex = forloop.index | modulo: 4 %}
                         {% if loopindex == 1 %}
                         <div class="row">
                             {% endif %}
-                            <div class="col-sm-12 col-lg-3">
+                            <div class="col-sm-12 col-md-3">
 
                                 <div class="single-team team-style">
                                         <div class="team-content">
                                             <div class="team-title">
-                                                <h4 class="heading-4"> {{team_member.name}} </h4>
-                                                <p>{{team_member.designation}}</p>
+                                                <h4 class="heading-4"> {{member.name}} </h4>
+                                                <p>{{member.designation}}</p>
                                             </div>
                                             <ul class="team-socials list-inline">
-                                                {% if team_member.twitter %}
-                                                <li class="list-inline-item"><a href="https://twitter.com/{{team_member.twitter}}"><i class="fa fa-twitter"></i></a></li>
+                                                {% if member.twitter %}
+                                                <li class="list-inline-item"><a href="https://twitter.com/{{member.twitter}}"><i class="fa fa-twitter"></i></a></li>
                                                 {% endif %}
-                                                {% if team_member.linkedin_url %}
-                                                <li class="list-inline-item"><a href="https://www.linkedin.com/in/{{team_member.linkedin}}"><i class="fa fa-linkedin"></i></a></li>
+                                                {% if member.linkedin_url %}
+                                                <li class="list-inline-item"><a href="https://www.linkedin.com/in/{{member.linkedin}}"><i class="fa fa-linkedin"></i></a></li>
                                                 {% endif %}
                                             </ul>
                                         </div>
@@ -33,7 +34,8 @@
                                 {% if loopindex == 0 %}
                             </div>
                             {% endif %}
-                            {% endfor %}
+                {% endfor %}
+                
                   </div>
              </div>
          </div>
