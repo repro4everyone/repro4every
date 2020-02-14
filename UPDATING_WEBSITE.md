@@ -32,17 +32,17 @@ One of the core team members with write permissions to this Github repository.
      - Please create the header of the markdown file as follows:
      ```
      ---
-     layout: post
-     title: "Experimental Reproducibility 101 - Part I"
-     date: 2018-10-19 18:14:30 +0600
-     tags: [reproducible research, experimental reproducibility]
-     post_image: 2018-10-19.jpg
-     comment: true
-     author: Sonali Roy
-     author_url: https://twitter.com/sonaliroy_?lang=en
-     author_image: https://pbs.twimg.com/profile_images/916695156765499392/oFzDXSjv_400x400.jpg
-     author_designation: Post doctoral researcher
-     author_bio: 
+     layout: post # DON'T CHANGE THIS
+     title: "Experimental Reproducibility 101 - Part I" # YOUR BLOG POST TITLE
+     date: 2018-10-19 18:14:30 +0600               # YOUR DATE
+     tags: [reproducible research, experimental reproducibility]    # CHOOSE SUITABLE TAGS
+     post_image: 2018-10-19.jpg                                     # ADD AN IMAGE IF YOU WANT (THIS IMAGE SHOULD BE UPLOADED TO repro4every/assets/images/blog/ 
+     comment: true                                                  # IF COMMENTING SHOULD BE ALLOWED
+     author: Sonali Roy                                             # NAME OF AUTHOR
+     author_url: https://twitter.com/sonaliroy_?lang=en             # TWITTER HANDLE OR OTHER URL FOR AUTHOR
+     author_image: https://pbs.twimg.com/profile_images/916695156765499392/oFzDXSjv_400x400.jpg   # LINK TO IMAGE OF AUTHOR IF PREFERRED
+     author_designation: Post doctoral researcher                   # AUTHOR DESIGNATION IF PREFERRED
+     author_bio:                                                    # NOT CURRENTLY UTILISED ON WEBSITE SO NOTHING TO ADD HERE
      ---
      ````
 
