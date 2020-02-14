@@ -32,9 +32,9 @@ One of the core team members with write permissions to this Github repository.
      - Please create the header of the markdown file as follows:
      ```
      ---
-     layout: post # DON'T CHANGE THIS
-     title: "Experimental Reproducibility 101 - Part I" # YOUR BLOG POST TITLE
-     date: 2018-10-19 18:14:30 +0600               # YOUR DATE
+     layout: post                                                   # DON'T CHANGE THIS
+     title: "Experimental Reproducibility 101 - Part I"             # YOUR BLOG POST TITLE
+     date: 2018-10-19 18:14:30 +0600                                # YOUR DATE
      tags: [reproducible research, experimental reproducibility]    # CHOOSE SUITABLE TAGS
      post_image: 2018-10-19.jpg                                     # ADD AN IMAGE IF YOU WANT (THIS IMAGE SHOULD BE UPLOADED TO repro4every/assets/images/blog/ 
      comment: true                                                  # IF COMMENTING SHOULD BE ALLOWED
