@@ -1,6 +1,6 @@
 ---
-name: Anelda van der Walt
-designation: Talarify
-twitter: aneldavdw
+name: Damar Susilaradeya
+designation: Faculty of Medicine University of Indonesia
+twitter: damarneuro
 linkedin: test
 ---
