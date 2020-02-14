@@ -10,14 +10,14 @@ One of the core team members with write permissions to this Github repository.
 
   - In this repo create a new file in the `_team_members` directory called `member_[number].md` where [number] should be replaced by the next number 
   - The file should be structured as follows: 
-```
----
-name: Aparna Shah
-designation: Johns Hopkins University
-twitter: Neuro_Musings
-linkedin: test
----
-```
+    ```
+    ---
+    name: Aparna Shah
+    designation: Johns Hopkins University
+    twitter: Neuro_Musings
+    linkedin: test
+    ---
+    ```
    - The website will automatically add the newly created member in alphabetical order with the next build
    - Nothing else to do
    
