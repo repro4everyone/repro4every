@@ -2,7 +2,7 @@
 layout: post
 title: "Twitter Fest #ReproducibilityWeekR4E"
 date: 2019-02-28 18:14:30 +0600
-tags: [reproducible research, open science, Twitter]
+tags: [reproducibility, open science, Twitter]
 post_image: 2019-06-16.jpg
 comment: true
 author: Anelda van der Walt
