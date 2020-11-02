@@ -3,11 +3,11 @@ layout: post
 title: "R4E to expand the reach of community-led reproducibility education with support from the Chan Zuckerberg Initiative"
 date: 2020-11-02 08:30:00 -0400
 tags: [reproducibility, sustainability, roadmap, governance]
-post_image: 2019-02-28.jpg
+post_image: 2020-11-02.png
 comment: true
 author: April Clyburne-Sherin, Reproducibility for Everyone Team
 author_url: https://twitter.com/repro4everyone
-author_image: https://pbs.twimg.com/profile_images/924452250654736384/-0od6zyQ_400x400.jpg
+author_image: 
 author_designation:  Executive Director
 author_bio: 
 ---
