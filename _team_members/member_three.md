@@ -1,6 +1,6 @@
 ---
 name: April Clyburne-Sherin
-designation: CodeOcean
+designation: R4E
 twitter: april_cs
 linkedin: test
 ---
