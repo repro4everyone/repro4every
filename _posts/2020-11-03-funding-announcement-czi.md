@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "R4E to expand the reach of community-led reproducibility education with support from the Chan Zuckerberg Initiative"
-date: 2020-11-02 08:30:00 -0400
+date: 2020-11-03 11:50:00 -0400
 tags: [reproducibility, sustainability, roadmap, governance]
 post_image: 2020-11-02.png
 comment: true
