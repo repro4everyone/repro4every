@@ -10,7 +10,7 @@
 
 # Site settings
 title: "Reproducibility for Everyone"
-email: "repro4everyone@gmail.com"
+email: "hello@repro4everyone.org"
 description: "Resources to support reproducible research"
 keywords: "reproducibility, reproducible research, open science"
 baseurl: "" # the subpath of your site, e.g. /blog
