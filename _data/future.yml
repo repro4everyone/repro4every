@@ -13,6 +13,11 @@
   location: Zoom
   flag: online.png
   link: https://repro4everyone.org/community-call-2021/
+- name: Reproducibility for Everyone Workshop @ KU Leuven
+  date: 12 February 2021
+  location: KU Leuven, Belgium
+  flag: online.png
+  link: https://www.kuleuven.be/english/
 - name: Reproducibility for Everyone Workshop @ UKRN
   date: 17 February 2021
   location: UK Reproducibility Network
