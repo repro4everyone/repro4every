@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Join our R4E Webinar Series with the Tanzania Society of Human Genetics"
-date: 2021-02-15 11:20:00 -0400
+date: 2021-02-12 11:20:00 -0400
 tags: [reproducibility, outreach, events]
-post_image:
+post_image: 2021-02-15.png
 comment: true
 author: April Clyburne-Sherin, Reproducibility for Everyone Team
 author_url: https://twitter.com/repro4everyone
@@ -16,7 +16,7 @@ In this post, the Reproducibility for Everyone Team invites you all to join our 
 
 ##### Interested in reproducibility? Join our Reproducibility for Everyone Webinar Series with the Tanzania Society of Human Genetics!
 
-**Join the [Reproducibility for Everyone][r4e] (R4E) community** in our first Community Calls, sponsored by [Addgene][addgene]! Anyone interested in reproducibility is welcome to join. We will discuss plans and opportunities for 2021, gather feedback from the community on key questions, and strategize on our next steps.
+**Join the [Reproducibility for Everyone][r4e] (R4E) community** in our upcoming Reproducibilty Webinar Series! Registration is free and open to everyone.
 
 We will run **3 x 30 minute webinars covering different topics**. Join all 3, or just the ones that most interest you!
 
