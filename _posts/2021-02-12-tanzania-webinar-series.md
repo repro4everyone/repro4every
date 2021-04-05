@@ -20,14 +20,14 @@ In this post, the Reproducibility for Everyone Team invites you all to join our 
 
 We will run **3 x 30 minute webinars covering different topics**. Join all 3, or just the ones that most interest you!
 
-##### **R4E Webinar #1 @ ECR Tanzania: Reproducibility and Data Management**
+##### **PAST - R4E Webinar #1 @ ECR Tanzania: Reproducibility and Data Management**
 
 This is the first in a 3 webinar series introducing topics, tools, and methods to improve reproducibility in research. The topics covered in this webinar will be: (1) **Introduction to Reproducibility** and (2) **Data Management**.
 
 - Date: Wednesday, March 17, 2021
 - Time: 2:00 PM EAT 
 - Duration: 30 minutes   
-- **[Register for the R4E Webinar #1][register1]**
+- **[Watch R4E Webinar #1][register1]**
 
 ##### **R4E Webinar #2 @ ECR Tanzania: Protocol and Reagent Sharing**
 
@@ -51,7 +51,7 @@ R4E is a global, community-led reproducibility education initiative. We run prac
 
 
 [r4e]: https://repro4everyone.org/
-[register1]: https://us02web.zoom.us/meeting/register/tZckcOGgrz8vE9e0IKj8LYN2RHdEIZhzNuny
+[register1]: https://youtu.be/mJ3Y704gYn8
 [register2]: https://us02web.zoom.us/meeting/register/tZ0rd-CvrjwoHNOKd6TSkyBTTnAS4BxTuxc3
 [register3]:  https://us02web.zoom.us/meeting/register/tZApf-6hqDgjE9Y3to1alNPI6v_tE3dpTRHA
 [joinus]: https://repro4everyone.org/pages/join/
