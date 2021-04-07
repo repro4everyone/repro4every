@@ -1,25 +1,25 @@
-- name: R4E Community Call Timezone Cohort 1
-  date: 9 February 2021
-  location: Zoom
+- name: Reproducibility for Everyone Webinar 2 @ ECR Tanzania
+  date: 14 May 2021
+  location: ECR Tanzania
   flag: online.png
-  link: https://repro4everyone.org/community-call-2021/
-- name: R4E Community Call Timezone Cohort 2
-  date: 11 February 2021
-  location: Zoom
+  link: https://repro4everyone.org/tanzania-webinar-series/
+- name: Reproducibility for Everyone Webinar 3 @ ECR Tanzania
+  date: 19 May 2021
+  location: ECR Tanzania
   flag: online.png
-  link: https://repro4everyone.org/community-call-2021/
-- name: Reproducibility for Everyone Workshop @ KU Leuven
-  date: 12 February 2021
-  location: KU Leuven, Belgium
+  link: https://repro4everyone.org/tanzania-webinar-series/
+- name: Reproducibility for Everyone Workshop @ Plant Biology 2021
+  date: 19-23 July 2021
+  location: Plant Biology Worldwide Summit 2021
   flag: online.png
-  link: https://www.kuleuven.be/english/
-- name: Reproducibility for Everyone Workshop @ UKRN
-  date: 17 February 2021
-  location: UK Reproducibility Network
+  link: https://plantbiology.aspb.org/workshops/
+- name: Reproducibility for Everyone Train-the-Trainer Course @ FSCI 2021
+  date: 26-30 July 2021
+  location: FORCE 11 Scholary Communication Institute 2021
   flag: online.png
-  link: https://zoom.us/meeting/register/tJErd-GqrjstEt2vTt5Naw9u4hH3uGAxV31O
-- name: Reproducibility for Everyone Workshop @ Drosophila 2021
-  date: 17 March 2021
-  location: 62nd Annual Drosophila Research Conference
+  link: https://www.force11.org/fsci/2021
+- name: Reproducibility for Everyone Workshop @ ESA 2021
+  date: 2-6 August 2021
+  location: Ecological Society of America 2021
   flag: online.png
-  link: https://genetics-gsa.org/drosophila-2021/schedule/
+  link: https://www.esa.org/longbeach/
