@@ -20,6 +20,19 @@ In this post, the Reproducibility for Everyone Team invites you all to join our 
 
 We will run **3 x 30 minute webinars covering different topics**. Join all 3, or just the ones that most interest you!
 
+###### **Upcoming webinars**
+
+##### **R4E Webinar #3 @ ECR Tanzania: Sharing and Analysing Data**
+
+This is the third in a 3 webinar series introducing topics, tools, and methods to improve reproducibility in research. The topics covered in this webinar will be: (1) **Data and Code Sharing** and (2) **Data Analysis, Visualization, and Images**.
+
+- Date: Wednesday, May 19, 2021
+- Time: 2:00 PM EAT   
+- Duration: 30 minutes
+- **[Register for the R4E Webinar #3][register3]**
+
+###### **Past webinars**
+
 ##### **PAST - R4E Webinar #1 @ ECR Tanzania: Reproducibility and Data Management**
 
 This is the first in a 3 webinar series introducing topics, tools, and methods to improve reproducibility in research. The topics covered in this webinar will be: (1) **Introduction to Reproducibility** and (2) **Data Management**.
@@ -38,14 +51,7 @@ This is the second in a 3 webinar series introducing topics, tools, and methods 
 - Duration: 30 minutes
 - **[Watch R4E Webinar #2][register2]**
 
-##### **R4E Webinar #3 @ ECR Tanzania: Sharing and Analysing Data**
 
-This is the third in a 3 webinar series introducing topics, tools, and methods to improve reproducibility in research. The topics covered in this webinar will be: (1) **Data and Code Sharing** and (2) **Data Analysis, Visualization, and Images**.
-
-- Date: Wednesday, May 19, 2021
-- Time: 2:00 PM EAT   
-- Duration: 30 minutes
-- **[Register for the R4E Webinar #3][register3]**
 
 R4E is a global, community-led reproducibility education initiative. We run practical and accessible events to introduce the concept of reproducibility to researchers. Want to volunteer for R4E? We invite you to contribute as an instructor, a content creator, a sponsor, or conference organizer! It is easy to [get involved][joinus]. Join our next R4E community meeting or let us know you wish to be involved by [filling out this short form][shortform]!
 
