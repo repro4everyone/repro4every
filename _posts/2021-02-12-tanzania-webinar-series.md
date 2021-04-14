@@ -20,7 +20,7 @@ In this post, the Reproducibility for Everyone Team invites you all to join our 
 
 We will run **3 x 30 minute webinars covering different topics**. Join all 3, or just the ones that most interest you!
 
-###### **Upcoming webinars**
+#### **Upcoming webinars**
 
 ##### **R4E Webinar #3 @ ECR Tanzania: Sharing and Analysing Data**
 
@@ -31,7 +31,7 @@ This is the third in a 3 webinar series introducing topics, tools, and methods t
 - Duration: 30 minutes
 - **[Register for the R4E Webinar #3][register3]**
 
-###### **Past webinars**
+#### **Past webinars**
 
 ##### **PAST - R4E Webinar #1 @ ECR Tanzania: Reproducibility and Data Management**
 
