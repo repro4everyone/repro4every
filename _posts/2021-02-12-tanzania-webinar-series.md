@@ -29,14 +29,14 @@ This is the first in a 3 webinar series introducing topics, tools, and methods t
 - Duration: 30 minutes   
 - **[Watch R4E Webinar #1][register1]**
 
-##### **R4E Webinar #2 @ ECR Tanzania: Protocol and Reagent Sharing**
+##### **PAST - R4E Webinar #2 @ ECR Tanzania: Protocol and Reagent Sharing**
 
 This is the second in a 3 webinar series introducing topics, tools, and methods to improve reproducibility in research. The topics covered in this webinar will be: (1) **Protocol Sharing** and (2) **Reagent Sharing**.
 
 - Date: Wednesday, April 14, 2021
 - Time: 2:00 PM EAT  
 - Duration: 30 minutes
-- **[Register for the R4E Webinar #2][register2]**
+- **[Watch R4E Webinar #2][register2]**
 
 ##### **R4E Webinar #3 @ ECR Tanzania: Sharing and Analysing Data**
 
@@ -52,7 +52,7 @@ R4E is a global, community-led reproducibility education initiative. We run prac
 
 [r4e]: https://repro4everyone.org/
 [register1]: https://youtu.be/mJ3Y704gYn8
-[register2]: https://us02web.zoom.us/meeting/register/tZ0rd-CvrjwoHNOKd6TSkyBTTnAS4BxTuxc3
+[register2]: https://youtu.be/AdC4PSbiDeg
 [register3]:  https://us02web.zoom.us/meeting/register/tZApf-6hqDgjE9Y3to1alNPI6v_tE3dpTRHA
 [joinus]: https://repro4everyone.org/pages/join/
 [shortform]: https://forms.gle/o3qG65w8bfj7Kq9L6
