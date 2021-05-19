@@ -3,7 +3,7 @@ layout: post ## Don't change anything here
 title: "On the value of reproducibility" ## Edit this
 date: 2021-05-19 13:30:30 +0200 ## Edit this to change the date and time to the current date and time and time zone you are in
 tags: [reproducibility, value, productivity, growth, connection] ## Edit this to add up to 5 tags for your post. It can be phrases. Comma separated
-post_image: 2021-05-19-value-reproducibility.png ## Edit this to be the name of the image you would like to use as header image for the post. Leave empty if no image required
+post_image: 2021-05-19.png ## Edit this to be the name of the image you would like to use as header image for the post. Leave empty if no image required
 author: Valeria Fonseca Diaz
 ---
 
