@@ -23,3 +23,8 @@ Here is when reproducibility brings a new value into our working and research cu
 The trade-off that comes necessary when coupling productivity with reproducibility is undeniable but fundamentally beneficial. As we continue to grow, our knowledge becomes more complex and with its complexity, its connectivity starts being at risk. 
 Disseminating our work enabling the possibility for others to reproduce our research, not only makes us transparent, but we also open the way for others to build on top of our previous results. In science, we value transparency over correctness and we need to start valuing connection at least as much as we value growth.  
 
+
+Valeria Fonseca Díaz
+LinkedIn: https://www.linkedin.com/in/valeria-fonseca-diaz-060283103/
+Twitter: https://twitter.com/valefonsecadiaz 
+Github: https://github.com/vfonsecad
