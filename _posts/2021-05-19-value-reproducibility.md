@@ -25,6 +25,9 @@ Disseminating our work enabling the possibility for others to reproduce our rese
 
 
 Valeria Fonseca Díaz
+
 LinkedIn: https://www.linkedin.com/in/valeria-fonseca-diaz-060283103/
+
 Twitter: https://twitter.com/valefonsecadiaz 
+
 Github: https://github.com/vfonsecad
